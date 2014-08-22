@@ -45,6 +45,13 @@
       "startDate": "1996-10-06",
       "endDate": "1998-06-26",
       "summary": "Responsible for building Intranet from ground up. Included evaluation and determination of needs, selection of appropriate server hardware and software, and training end users and support personnel. Configured common Internet services for the Intranet environment. Performed administration of Microsoft Exchange for email for both corporate and Internet environments. Installed and administered Checkpoint Firewall-1 for access to the Internet. Security policies in place to limit web and FTP access and allow exchange of email to the Internet. Oversaw Intranet programming using ASP (Active Server Pages) for several web applications for corporate use, including a searchable knowledge base application. Handled the administration of four WindowsNT based servers and twelve NetWare based fileservers. Handled end user desktops, including DOS/Windows, Windows95 and WindowsNT Workstation. Support many business applications including, Lotus 123, Wordperfect, Access, Visual Basic, Project and Visio."
+    },
+    {
+      "company": "Bank One Financial Card Services",
+      "position": "System and Network Administrator",
+      "startDate": "1995-08-08",
+      "endDate": "1996-09-22",
+      "summary": "Managed Windows based token ring network consisting of approximately 30 Windows 3.1x, Windows 95 and WindowsNT workstations. Provided an in-house liaison to software vendors for system troubleshooting and problem recovery. Installed micro-channel based hardware within an AT&T UNIX based server (AT&T 3525), including Ethernet, token ring and SCSI interfaces. Provided general UNIX administration, file system maintenance and process improvement through the use of UNIX shell scripts. Also did installation of PC hardware (modems, memory, etc) and business software (Lotus Notes, Smartsuite, MS Office95, etc). Did troubleshooting of industry specific hardware including NCR 7780 transport image scanners, DISC optical library jukebox and various NCR micro-channel based PC's. Administered six WindowsNT based servers, two print servers, one application server and three servers configured for use on the Internet (WWW, FTP and SMTP/POP3 services). Also maintained a DEC AlphaServer 2000, running Digital UNIX and an Open Market based secure WWW server that functioned as an image based check-clearing center on the Internet for Bank One brokers and clients."
     }
   ],
   "education": [
@@ -153,6 +160,16 @@
         "Git",
         "Subversion",
         "CVS"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hardware",
+      "keywords": [
+        "3D printing",
+        "Arduino",
+        "RaspberryPi"
       ]
     }
   ],
