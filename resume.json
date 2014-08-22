@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "M. Adam Kendall",
+    "email": "m.adam.kendall@gmail.com",
+    "picture": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
+    "summary": "Highly experienced dynamic languages developer, primarily focused on Python and Groovy for enterprise scalable development.  Experienced in both Python and JVM application server stacks, such as Zope2 and Grails.  Highly interested in pursuing CMS technologies and solutions in these environments as I think they are underserved.  While I understand there are many Off-The-Shelf solutions available, particularly in the PHP arena, the approach taken for extensibility, configuration and scalability all fall a little flat.",
+    "location": {
+      "address": "1640 Narcissus St",
+      "city": "Salem",
+      "countryCode": "US",
+      "region": "Virginia",
+      "postalCode": "VA 24153"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "linuxbozo",
+        "url": "https://github.com/linuxbozo"
+      },
+      {
+        "network": "twitter",
+        "username": "linuxbozo",
+        "url": "http://www.twitter.com/linuxbozo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Development Infostructure",
+      "position": "Software Architect",
+      "website": "http://www.devis.com",
+      "startDate": "1999-10-25",
+      "summary": "Highly experienced software architect, using multiple languages and methodologies. Responsible for introducing the company to such technologies such as Grails and team management using SCRUM. Lead developer for EZRO (http://ezro.devis.com) an open source CMS and web courseware system produced for the US Department of Labor. Experience in setup and configuration of Resin, Tomcat, JBoss and Jetty. Highly experienced with Groovy/Grails in the JVM/J2EE. Experienced with setup and configuration of PostgreSQL & MySQL database servers and functional SQL language knowledge. Responsible for creation and implementation of developer sandbox which leverages technologies such as VMWare, Linux and Subversion to allow for distributed and standardized development. Implemented network services that best serve customer interests such as web site search services and project management tools for software quality control such as Trac ticket tracking. Experience with software lifecycle management services like Rally and Hudson and Team City continuous integration servers."
+    },
+    {
+      "company": "Norfolk Southern Railroad",
+      "position": "Senior Developer",
+      "startDate": "1998-07-06",
+      "endDate": "1999-10-22",
+      "summary": "Responsible for security monitoring, intrusion detection and UNIX security policy within the Intranet/Internet environment. Work with security products from ISS (Internet Scanner and Real Secure) for intrusion detection and security evaluation, as well as custom tools and scripts. Responsible for configuration of Sun Solaris machines for maximum security in an assumed hostile environment. Limited responsibility for security and quality monitoring of several Windows NT based Intranet systems. Evaluate security aspects of Internet/Intranet applications built by both company development groups and outside vendors. Perform other UNIX and NT administration tasks as needed. Responsible for programming ASP (Active Server Pages) project for corporate security DSS (Decision Support System)."
+    },
+    {
+      "company": "Advance Auto Parts",
+      "position": "Lan Analyst",
+      "startDate": "1996-10-06",
+      "endDate": "1998-06-26",
+      "summary": "Responsible for building Intranet from ground up. Included evaluation and determination of needs, selection of appropriate server hardware and software, and training end users and support personnel. Configured common Internet services for the Intranet environment. Performed administration of Microsoft Exchange for email for both corporate and Internet environments. Installed and administered Checkpoint Firewall-1 for access to the Internet. Security policies in place to limit web and FTP access and allow exchange of email to the Internet. Oversaw Intranet programming using ASP (Active Server Pages) for several web applications for corporate use, including a searchable knowledge base application. Handled the administration of four WindowsNT based servers and twelve NetWare based fileservers. Handled end user desktops, including DOS/Windows, Windows95 and WindowsNT Workstation. Support many business applications including, Lotus 123, Wordperfect, Access, Visual Basic, Project and Visio."
+    }
+  ],
+  "education": [
+    {
+      "institution": "American InterContinental University",
+      "startDate": "2002-04-28",
+      "endDate": "2004-06-04",
+      "area": "Major: Visual Communication, Digital Design",
+      "gpa": "3.86",
+      "studyType": "Bachelors of Fine Art, Magna Cum Laude",
+      "courses": []
+    },
+    {
+      "institution": "Ohio University",
+      "startDate": "1993-09-09",
+      "endDate": "1995-06-10",
+      "area": "Major: Computer Science, Major: Electrical Engineering, Minor: History",
+      "summary": "Activities and Societies: Alpha Phi Omega, ACM",
+      "studyType": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Toledo",
+      "startDate": "1992-08-24",
+      "endDate": "1993-05-08",
+      "area": "Major: Electrical and Computer Engineering",
+      "summary": "",
+      "studyType": "",
+      "courses": []
+    }
+  ],
+  "publications": [
+    {
+      "name": "Python and Zope in the EZRO CMS",
+      "publisher": "python.org",
+      "releaseDate": "2004-06-02",
+      "website": "http://legacy.python.org/about/success/ezro/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Java",
+        "Groovy",
+        "C#",
+        "Javascript",
+        "Python",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Zope",
+        "Grails",
+        "Hibernate",
+        "Joomla",
+        "Wordpress",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "Postgres",
+        "MySQL",
+        "SQL Server",
+        "Oracle",
+        "MongoDB"
+      ]
+    },
+
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Sass",
+        "JQuery",
+        "Angular.js",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": [
+        "Mac OSX",
+        "Linux",
+        "Unix",
+        "BSD"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Jenkins",
+        "Sonar",
+        "Vagrant",
+        "Puppet"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "keywords": [
+        "Git",
+        "Subversion",
+        "CVS"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Scott Fallin",
+      "reference": "I have worked with Adam at two different companies and have known him for over a decade. Adam is the finest programmer I have ever had the pleasure to work with. His depth of knowledge of several languages and methodologies, most specifically Python, is astounding. He is a true self-starter and I have never known him to shy away from learning something new, often becoming an expert on the subject in a very short time. It should also be noted that he is one of the finest network security minds in the industry. I will always attempt to hire him whenever I'm in the position to do so."
+    },
+    { "name": "Justin Stockton, CUA",
+      "reference": "Adam is a very capable leader and developer. I have worked alongside him for many years and have learned a lot not only about being a better developer but also about myself and what I can accomplish. He is someone that when times are tough, deadlines loom or the project is out of whack, I want on my team to help get us back on course and to completion."
+    },
+    { "name": "Angela Carrayway, PMP, ITIL-F",
+      "reference": "Adam is very gifted in his understanding of technology. Whenever I wanted something fixed ..... I called Adam.. He gets the job done right the first time!"
+    },
+    { "name": "Samuel Schneider, CISSP",
+      "reference": "I had the priviledge to work with Adam at a time when PC networking was beggining to take hold at Advance Auto Parts (AAP.) Adam was instrumental in advocating, architecting and implammenting critical infrastructure services. As an IT proffesional Adam is diverse and a true technical wiz who loves solving problems and making disparate systems work uniformaly. Problem solving, deep technical knowledge base, a strong foundation and Adam's personal commitment to his projects make him a bargain in consideration for employemt. I would highly recommend him for just about any IT related activity as I have seen him rise to the occasion in many times of critical need. If you have the opportuniuty to leverage Adam as a resource consider yourself fortunate and have confidence that what you are attempting will be complete and functional on time and in budget."
+    }
+  ]
+}
