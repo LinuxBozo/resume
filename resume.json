@@ -4,7 +4,7 @@
     "name": "M. Adam Kendall",
     "email": "m.adam.kendall@gmail.com",
     "picture": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
-    "summary": "Highly experienced dynamic languages developer, primarily focused on Python and Groovy for enterprise scalable development.  Experienced in both Python and JVM application server stacks, such as Zope2 and Grails.  Highly interested in pursuing CMS technologies and solutions in these environments as I think they are underserved.  While I understand there are many Off-The-Shelf solutions available, particularly in the PHP arena, the approach taken for extensibility, configuration and scalability all fall a little flat.",
+    "summary": "I've been a full-stack web software architect and system admin, or as they say these days, experienced in \"DevOps\", for over 17 years. I specialize in the architecure and design of applications using dynamic languages, using a service oriented approach.",
     "location": {
       "address": "1640 Narcissus St",
       "city": "Salem",
@@ -31,28 +31,68 @@
       "position": "Software Architect",
       "website": "http://www.devis.com",
       "startDate": "1999-10-25",
-      "summary": "Highly experienced software architect, using multiple languages and methodologies. Responsible for introducing the company to such technologies such as Grails and team management using SCRUM. Lead developer for EZRO (http://ezro.devis.com) an open source CMS and web courseware system produced for the US Department of Labor. Experience in setup and configuration of Resin, Tomcat, JBoss and Jetty. Highly experienced with Groovy/Grails in the JVM/J2EE. Experienced with setup and configuration of PostgreSQL & MySQL database servers and functional SQL language knowledge. Responsible for creation and implementation of developer sandbox which leverages technologies such as VMWare, Linux and Subversion to allow for distributed and standardized development. Implemented network services that best serve customer interests such as web site search services and project management tools for software quality control such as Trac ticket tracking. Experience with software lifecycle management services like Rally and Hudson and Team City continuous integration servers."
+      "summary": "Work directly with Director of Development Services setting policy for application development, component and service architecture, software quality, and security strategy. Lead small teams of 2 to 5 developers within an agile environment to produce applications within the federal government sector.",
+      "highlights": [
+        "Team lead and developer for <a href=\"http://ezro.devis.com\">EZRO</a> content management and e-learning system used by several government agencies, including the Department of Labor, Department of Justice, and Department of State",
+        "Team lead and developer for <a href=\"https://disability.gov\">disability.gov</a>, the US Department of Labor (DOL) portal for those with disabilities to find help within the federal government",
+        "Helped develop an application for DOL Office of Disability Employment Policy (ODEP) to help manage the <a href=\"http://www.dol.gov/odep/wrp/\">Workforce Recruitment Program (WRP)</a>",
+        "Team lead and developer for <a href=\"https://nrd.gov\">National Resource Directory (NRD)</a> for the Department of Veterans Affairs for Department of Defense",
+        "Developer for US Agency for Internationl Development (USAID) <a href=\"http://cms.usaid.org\">Credit Management System (CMS)</a>",
+        "Team member of the <a href=\"https://trainet-vcs.usaid.gov/\">TraiNet/VCS</a> program for USAID",
+        "Introduced SCRUM to company for organizing agile project teams",
+        "Evaluated and proposed the use of Groovy/Grails as the standard stack for JVM projects",
+        "Responsible for mentoring other developers on topics of architecture and test driven development",
+        "Implemented several development strategies to increase code quality",
+        "Designed security strategy for integrating security into the development process",
+        "Evaluate and recommend training opportunities for development staff on secure software design and architecture",
+        "Implemented SonarQube for analysis of software quality and code standardization",
+        "Created prototypes for high risk features on projects as well as proof of concept applications for evaluating new technologies"
+      ]
     },
     {
       "company": "Norfolk Southern Railroad",
       "position": "Senior Developer",
+      "website": "http://www.nscorp.com",
       "startDate": "1998-07-06",
       "endDate": "1999-10-22",
-      "summary": "Responsible for security monitoring, intrusion detection and UNIX security policy within the Intranet/Internet environment. Work with security products from ISS (Internet Scanner and Real Secure) for intrusion detection and security evaluation, as well as custom tools and scripts. Responsible for configuration of Sun Solaris machines for maximum security in an assumed hostile environment. Limited responsibility for security and quality monitoring of several Windows NT based Intranet systems. Evaluate security aspects of Internet/Intranet applications built by both company development groups and outside vendors. Perform other UNIX and NT administration tasks as needed. Responsible for programming ASP (Active Server Pages) project for corporate security DSS (Decision Support System)."
+      "summary": "Worked within the Intranet/Internet Systems Group specializing in security and system administration on Sun Solaris and Windows NT servers.",
+      "highlights": [
+        "Evaluate the security of intranet applications written by internal development groups and outside vendors through whitebox and blackbox testing",
+        "Created policy and procedure for securing Windows NT servers used across the corporation",
+        "Wrote custom tools and scripts for system automation  and security monitoring on Solaris servers",
+        "Implemented and monitored intrusion detection systems for UNIX servers",
+        "Implemented corporate intranet security decision support system in ASP to handle information security incidents"
+      ]
     },
     {
       "company": "Advance Auto Parts",
       "position": "Lan Analyst",
+      "website": "http://corp.advanceautoparts.com",
       "startDate": "1996-10-06",
       "endDate": "1998-06-26",
-      "summary": "Responsible for building Intranet from ground up. Included evaluation and determination of needs, selection of appropriate server hardware and software, and training end users and support personnel. Configured common Internet services for the Intranet environment. Performed administration of Microsoft Exchange for email for both corporate and Internet environments. Installed and administered Checkpoint Firewall-1 for access to the Internet. Security policies in place to limit web and FTP access and allow exchange of email to the Internet. Oversaw Intranet programming using ASP (Active Server Pages) for several web applications for corporate use, including a searchable knowledge base application. Handled the administration of four WindowsNT based servers and twelve NetWare based fileservers. Handled end user desktops, including DOS/Windows, Windows95 and WindowsNT Workstation. Support many business applications including, Lotus 123, Wordperfect, Access, Visual Basic, Project and Visio."
+      "summary": "Responsible for building Internet presence from ground up. Included evaluation and determination of needs, selection of appropriate server hardware and software, and training end users and support personnel. Expanded existing Intranet services beyond filesharing and backup systems.",
+      "highlights": [
+        "Worked with Wide Area Network (WAN) group in selection process of ISP",
+        "Installed and certified on Checkpoint Firewall-1 for securing Internet routes",
+        "Installed and maintained Microsoft Exchange for corporate email",
+        "Installed and maintained IIS web servers for both corporate website and intranet systems",
+        "Helped create searchable corporate knowledge base application, written in ASP",
+        "Administered both Windows NT and Novell NetWare based servers for corporate file sharing",
+        "Provided various desktop support and business application support services for corporate end users"
+      ]
     },
     {
       "company": "Bank One Financial Card Services",
       "position": "System and Network Administrator",
       "startDate": "1995-08-08",
       "endDate": "1996-09-22",
-      "summary": "Managed Windows based token ring network consisting of approximately 30 Windows 3.1x, Windows 95 and WindowsNT workstations. Provided an in-house liaison to software vendors for system troubleshooting and problem recovery. Installed micro-channel based hardware within an AT&T UNIX based server (AT&T 3525), including Ethernet, token ring and SCSI interfaces. Provided general UNIX administration, file system maintenance and process improvement through the use of UNIX shell scripts. Also did installation of PC hardware (modems, memory, etc) and business software (Lotus Notes, Smartsuite, MS Office95, etc). Did troubleshooting of industry specific hardware including NCR 7780 transport image scanners, DISC optical library jukebox and various NCR micro-channel based PC's. Administered six WindowsNT based servers, two print servers, one application server and three servers configured for use on the Internet (WWW, FTP and SMTP/POP3 services). Also maintained a DEC AlphaServer 2000, running Digital UNIX and an Open Market based secure WWW server that functioned as an image based check-clearing center on the Internet for Bank One brokers and clients."
+      "summary": "Responsible for system and network administration in the check clearing division. Managed both Unix based servers and desktop systems, optical storage silos, and industry specific hardware, like check transport image scanners.",
+      "highlights": [
+        "Managed ethernet and token ring networks for Windows based desktops and servers",
+        "Provided general administration on DEC Digital Unix and AT&T SysV Unix, file system maintenance and process improvement through the use of shell scripts",
+        "Installed and diagnosed both PC and AT&T micro-channel server hardware, like memory, modem and SCSI interfaces",
+        "Managed and secured Internet connected systems for remote broker and client check clearing operations"
+      ]
     }
   ],
   "education": [
@@ -61,8 +101,7 @@
       "startDate": "2002-04-28",
       "endDate": "2004-06-04",
       "area": "Major: Visual Communication, Digital Design",
-      "gpa": "3.86",
-      "studyType": "Bachelors of Fine Art, Magna Cum Laude",
+      "studyType": "Bachelor of Fine Arts, Magna Cum Laude",
       "courses": []
     },
     {
@@ -90,6 +129,12 @@
       "publisher": "python.org",
       "releaseDate": "2004-06-02",
       "website": "http://legacy.python.org/about/success/ezro/"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
     }
   ],
   "skills": [
@@ -147,11 +192,21 @@
       ]
     },
     {
+      "name": "Servers",
+      "keywords": [
+        "Apache",
+        "nginx",
+        "Tomcat",
+        "Jetty"
+      ]
+    },
+    {
       "name": "DevOps",
       "keywords": [
         "Jenkins",
-        "Sonar",
+        "SonarQube",
         "Vagrant",
+        "VirtualBox",
         "Puppet"
       ]
     },
@@ -183,10 +238,10 @@
       "reference": "Adam is a very capable leader and developer. I have worked alongside him for many years and have learned a lot not only about being a better developer but also about myself and what I can accomplish. He is someone that when times are tough, deadlines loom or the project is out of whack, I want on my team to help get us back on course and to completion."
     },
     { "name": "Angela Carrayway, PMP, ITIL-F",
-      "reference": "Adam is very gifted in his understanding of technology. Whenever I wanted something fixed ..... I called Adam.. He gets the job done right the first time!"
+      "reference": "Adam is very gifted in his understanding of technology. Whenever I wanted something fixed I called Adam. He gets the job done right the first time!"
     },
     { "name": "Samuel Schneider, CISSP",
-      "reference": "I had the priviledge to work with Adam at a time when PC networking was beggining to take hold at Advance Auto Parts (AAP.) Adam was instrumental in advocating, architecting and implammenting critical infrastructure services. As an IT proffesional Adam is diverse and a true technical wiz who loves solving problems and making disparate systems work uniformaly. Problem solving, deep technical knowledge base, a strong foundation and Adam's personal commitment to his projects make him a bargain in consideration for employemt. I would highly recommend him for just about any IT related activity as I have seen him rise to the occasion in many times of critical need. If you have the opportuniuty to leverage Adam as a resource consider yourself fortunate and have confidence that what you are attempting will be complete and functional on time and in budget."
+      "reference": "I had the privilege to work with Adam at a time when PC networking was beggining to take hold at Advance Auto Parts (AAP.) Adam was instrumental in advocating, architecting and implementating critical infrastructure services. As an IT professional Adam is diverse and a true technical wiz who loves solving problems and making disparate systems work uniformaly. Problem solving, deep technical knowledge base, a strong foundation and Adam's personal commitment to his projects make him a bargain in consideration for employemt. I would highly recommend him for just about any IT related activity as I have seen him rise to the occasion in many times of critical need. If you have the opportuniuty to leverage Adam as a resource consider yourself fortunate and have confidence that what you are attempting will be complete and functional on time and in budget."
     }
   ]
 }
