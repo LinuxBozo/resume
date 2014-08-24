@@ -66,7 +66,7 @@
     },
     {
       "company": "Advance Auto Parts",
-      "position": "Lan Analyst",
+      "position": "LAN Analyst",
       "website": "http://corp.advanceautoparts.com",
       "startDate": "1996-10-06",
       "endDate": "1998-06-26",
@@ -144,7 +144,7 @@
         "Java",
         "Groovy",
         "C#",
-        "Javascript",
+        "JavaScript",
         "Python",
         "PHP"
       ]
