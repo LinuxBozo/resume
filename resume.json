@@ -31,7 +31,7 @@
       "position": "Software Architect",
       "website": "http://www.devis.com",
       "startDate": "1999-10-25",
-      "summary": "Work directly with Director of Development Services setting policy for application development, component and service architecture, software quality, and security strategy. Lead small teams of 2 to 5 developers within an agile environment to produce applications within the federal government sector.",
+      "summary": "Work directly with Director of Development Services setting policy for application development, component and service architecture, software quality, and security strategy. Regularly lead small teams of 2 to 5 developers within an agile environment to produce applications for federal government clients.",
       "highlights": [
         "Team lead and developer for <a href=\"http://ezro.devis.com\">EZRO</a> content management and e-learning system used by several government agencies, including the Department of Labor, Department of Justice, and Department of State",
         "Team lead and developer for <a href=\"https://disability.gov\">disability.gov</a>, the US Department of Labor (DOL) portal for those with disabilities to find help within the federal government",
@@ -41,6 +41,8 @@
         "Team member of the <a href=\"https://trainet-vcs.usaid.gov/\">TraiNet/VCS</a> program for USAID",
         "Introduced SCRUM to company for organizing agile project teams",
         "Evaluated and proposed the use of Groovy/Grails as the standard stack for JVM projects",
+        "Helped implement <a href=\"http://www.gebish.org/\">Geb</a> for automated functional testing of web projects",
+        "Lead the effort to first switch to the company's version control from CVS to Subversion, and then again over to git",
         "Responsible for mentoring other developers on topics of architecture and test driven development",
         "Implemented several development strategies to increase code quality",
         "Designed security strategy for integrating security into the development process",
@@ -141,6 +143,7 @@
     {
       "name": "Programming Languages",
       "keywords": [
+        "Shell Scripting",
         "Java",
         "Groovy",
         "C#",
@@ -170,6 +173,24 @@
         "JQuery",
         "Angular.js",
         "Bootstrap"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "JUnit",
+        "PyUnit",
+        "PHPUnit",
+        "mocha",
+        "phantomjs",
+        "geb"
+      ]
+    },
+    {
+      "name": "Agile Project Management",
+      "keywords": [
+        "Rally",
+        "Jira"
       ]
     },
     {
