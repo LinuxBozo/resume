@@ -4,7 +4,7 @@
     "name": "M. Adam Kendall",
     "email": "m.adam.kendall@gmail.com",
     "picture": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
-    "summary": "I've been a full-stack web software architect and system admin, or as they say these days, experienced in \"DevOps\", for over 17 years. I specialize in the architecure and design of applications using dynamic languages, using a service oriented approach.",
+    "summary": "I've been a full-stack web software architect and system admin, or as they say these days, experienced in \"DevOps\", for over 18 years. I specialize in the architecture and design of applications using dynamic languages, using a service oriented approach. I have been a completely remote worker, or telecommuter, for the past 15 years and understand the high levels of communication and self discipline required.",
     "location": {
       "address": "1640 Narcissus St",
       "city": "Salem",
@@ -150,29 +150,19 @@
       ]
     },
     {
-      "name": "Frameworks",
+      "name": "Backend",
       "keywords": [
         "Zope",
         "Grails",
         "Hibernate",
         "Joomla",
         "Wordpress",
-        "Node.js"
+        "node.js",
+        "krakenjs"
       ]
     },
     {
-      "name": "Databases",
-      "keywords": [
-        "Postgres",
-        "MySQL",
-        "SQL Server",
-        "Oracle",
-        "MongoDB"
-      ]
-    },
-
-    {
-      "name": "Web Development",
+      "name": "Frontend",
       "keywords": [
         "HTML",
         "CSS",
@@ -180,6 +170,16 @@
         "JQuery",
         "Angular.js",
         "Bootstrap"
+      ]
+    },
+    {
+      "name": "Storage",
+      "keywords": [
+        "Postgres",
+        "MySQL",
+        "SQL Server",
+        "Oracle",
+        "MongoDB"
       ]
     },
     {
