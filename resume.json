@@ -182,6 +182,7 @@
         "PyUnit",
         "PHPUnit",
         "mocha",
+        "karma",
         "phantomjs",
         "geb"
       ]
@@ -189,6 +190,7 @@
     {
       "name": "Agile Project Management",
       "keywords": [
+        "Scrum",
         "Rally",
         "Jira"
       ]
@@ -262,7 +264,7 @@
       "reference": "Adam is very gifted in his understanding of technology. Whenever I wanted something fixed I called Adam. He gets the job done right the first time!"
     },
     { "name": "Samuel Schneider, CISSP",
-      "reference": "I had the privilege to work with Adam at a time when PC networking was beggining to take hold at Advance Auto Parts (AAP.) Adam was instrumental in advocating, architecting and implementating critical infrastructure services. As an IT professional Adam is diverse and a true technical wiz who loves solving problems and making disparate systems work uniformaly. Problem solving, deep technical knowledge base, a strong foundation and Adam's personal commitment to his projects make him a bargain in consideration for employemt. I would highly recommend him for just about any IT related activity as I have seen him rise to the occasion in many times of critical need. If you have the opportuniuty to leverage Adam as a resource consider yourself fortunate and have confidence that what you are attempting will be complete and functional on time and in budget."
+      "reference": "I had the privilege to work with Adam at a time when PC networking was beginning to take hold at Advance Auto Parts (AAP.) Adam was instrumental in advocating, architecting and implementing critical infrastructure services. As an IT professional Adam is diverse and a true technical wiz who loves solving problems and making disparate systems work uniformly. Problem solving, deep technical knowledge base, a strong foundation and Adam's personal commitment to his projects make him a bargain in consideration for employment. I would highly recommend him for just about any IT related activity as I have seen him rise to the occasion in many times of critical need. If you have the opportunity to leverage Adam as a resource consider yourself fortunate and have confidence that what you are attempting will be complete and functional on time and in budget."
     }
   ]
 }
