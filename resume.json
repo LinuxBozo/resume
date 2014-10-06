@@ -33,12 +33,14 @@
       "startDate": "1999-10-25",
       "summary": "Work directly with Director of Development Services setting policy for application development, component and service architecture, software quality, and security strategy. Regularly lead small teams of 2 to 5 developers within an agile environment to produce applications for federal government clients.",
       "highlights": [
+        "Developed a high-performance responsive training application for the Federal Acquisition Institute (FAI) utilizing node.js and AngularJS",
+        "Lead effort for design and development of a document repository and web portal for Nathan Associates to collaborate and share documents and events with their teams distributed around the world",
         "Team lead and developer for <a href=\"http://ezro.devis.com\">EZRO</a> content management and e-learning system used by several government agencies, including the Department of Labor, Department of Justice, and Department of State",
-        "Team lead and developer for <a href=\"https://disability.gov\">disability.gov</a>, the US Department of Labor (DOL) portal for those with disabilities to find help within the federal government",
-        "Helped develop an application for DOL Office of Disability Employment Policy (ODEP) to help manage the <a href=\"http://www.dol.gov/odep/wrp/\">Workforce Recruitment Program (WRP)</a>",
-        "Team lead and developer for <a href=\"https://nrd.gov\">National Resource Directory (NRD)</a> for the Department of Veterans Affairs for Department of Defense",
-        "Developer for US Agency for International Development (USAID) <a href=\"http://cms.usaid.org\">Credit Management System (CMS)</a>",
-        "Team member of the <a href=\"https://trainet-vcs.usaid.gov/\">TraiNet/VCS</a> program for USAID",
+        "Team lead and developer for <a href=\"https://disability.gov\">disability.gov</a>, the US Department of Labor (DOL) award winning portal for those with disabilities trying to find help within the federal government",
+        "Helped develop an application for DOL Office of Disability Employment Policy (ODEP) to help manage the <a href=\"http://www.dol.gov/odep/wrp/\">Workforce Recruitment Program (WRP)</a>. The WRP is a recruitment and referral program that connects federal and private sector employers nationwide with highly motivated college students and recent graduates with disabilities who are eager to prove their abilities in the workplace through summer or permanent jobs.",
+        "Team lead and developer for <a href=\"https://nrd.gov\">National Resource Directory (NRD)</a> for the Department of Veterans Affairs and Department of Defense. NRD is an online tool for wounded, ill and injured Service Members, Veterans, their families, and those who support them. The NRD provides access to more than 11,000 services and resources at the national, state and local levels that support recovery, rehabilitation and community reintegration.",
+        "Developer for US Agency for International Development (USAID) <a href=\"http://cms.usaid.org\">Credit Management System (CMS)</a>, a sophisticated Web database that allows over 200 commercial banks to report directly on individual loan status and losses. The system integrates data from the US Treasury Department to allow standard calculation of loans in both US Dollars and over 70 local currencies.",
+        "Development team member of <a href=\"https://trainet-vcs.usaid.gov/\">TraiNet/VCS</a>, USAID’s internet-based tools for gathering and reporting data on USAID exchanges, training and education, and for maintaining compliance with U.S. Government Visa requirement.",
         "Introduced SCRUM to company for organizing agile project teams",
         "Evaluated and proposed the use of Groovy/Grails as the standard stack for JVM projects",
         "Helped implement <a href=\"http://www.gebish.org/\">Geb</a> for automated functional testing of web projects",
@@ -171,7 +173,7 @@
         "CSS",
         "Sass",
         "JQuery",
-        "Angular.js",
+        "AngularJS",
         "Bootstrap"
       ]
     },
