@@ -1,10 +1,10 @@
 {
   "basics": {
-    "label": "Software Architect",
+    "label": "Software Engineer",
     "name": "M. Adam Kendall",
     "email": "m.adam.kendall@gmail.com",
     "picture": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
-    "summary": "I've been a full-stack web software architect and system admin, or as they say these days, experienced in \"DevOps\", for over 18 years. I specialize in the architecture and design of applications using dynamic languages, using a service oriented approach. I have been a completely remote worker, or telecommuter, for the past 15 years and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
+    "summary": "I've been a full-stack web software architect and system admin, or as they say, \"DevOps\", for over 18 years. I specialize in SOA applications using dynamic languages. I've been a remote worker for the past 15 years and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
     "location": {
       "address": "1640 Narcissus St",
       "city": "Salem",
@@ -28,17 +28,18 @@
   "work": [
     {
       "company": "Development Infostructure",
-      "position": "Software Architect",
+      "position": "Software Engineer",
       "website": "http://www.devis.com",
       "startDate": "1999-10-25",
       "summary": "Work directly with Director of Development Services setting policy for application development, component and service architecture, software quality, and security strategy. Regularly lead small teams of 2 to 5 developers within an agile environment to produce applications for federal government clients.",
       "highlights": [
+        "Team lead and architect for the <a href=\"http://github.com/cfpb/hmda-pilot\">HMDA data validation pilot project</a> for the Consumer Financial Protection Bureau (CFPB). The HMDA Pilot provides a client side tool to perform validation, error checking and reporting of HMDA files, following the specifications found on the <a href=\"http://www.ffiec.gov/hmda\">FFIEC</a> website",
         "Developed a high-performance responsive training application for the Federal Acquisition Institute (FAI) utilizing node.js and AngularJS",
         "Lead effort for design and development of a document repository and web portal for Nathan Associates to collaborate and share documents and events with their teams distributed around the world",
         "Team lead and developer for <a href=\"http://ezro.devis.com\">EZRO</a> content management and e-learning system used by several government agencies, including the Department of Labor, Department of Justice, and Department of State",
         "Team lead and developer for <a href=\"https://disability.gov\">disability.gov</a>, the US Department of Labor (DOL) award winning portal for those with disabilities trying to find help within the federal government",
-        "Helped develop an application for DOL Office of Disability Employment Policy (ODEP) to help manage the <a href=\"http://www.dol.gov/odep/wrp/\">Workforce Recruitment Program (WRP)</a>. The WRP is a recruitment and referral program that connects federal and private sector employers nationwide with highly motivated college students and recent graduates with disabilities who are eager to prove their abilities in the workplace through summer or permanent jobs.",
-        "Team lead and developer for <a href=\"https://nrd.gov\">National Resource Directory (NRD)</a> for the Department of Veterans Affairs and Department of Defense. NRD is an online tool for wounded, ill and injured Service Members, Veterans, their families, and those who support them. The NRD provides access to more than 11,000 services and resources at the national, state and local levels that support recovery, rehabilitation and community reintegration.",
+        "Helped develop an application for DOL Office of Disability Employment Policy (ODEP) to help manage the <a href=\"http://www.dol.gov/odep/wrp/\">Workforce Recruitment Program (WRP)</a>. ",
+        "Team lead and developer for <a href=\"https://nrd.gov\">National Resource Directory (NRD)</a> for the Department of Veterans Affairs and Department of Defense.",
         "Developer for US Agency for International Development (USAID) <a href=\"http://cms.usaid.org\">Credit Management System (CMS)</a>, a sophisticated Web database that allows over 200 commercial banks to report directly on individual loan status and losses. The system integrates data from the US Treasury Department to allow standard calculation of loans in both US Dollars and over 70 local currencies.",
         "Development team member of <a href=\"https://trainet-vcs.usaid.gov/\">TraiNet/VCS</a>, USAID’s internet-based tools for gathering and reporting data on USAID exchanges, training and education, and for maintaining compliance with U.S. Government Visa requirement.",
         "Introduced SCRUM to company for organizing agile project teams",
@@ -46,7 +47,6 @@
         "Helped implement <a href=\"http://www.gebish.org/\">Geb</a> for automated functional testing of web projects",
         "Lead the effort to first switch to the company's version control from CVS to Subversion, and then again over to git",
         "Responsible for mentoring other developers on topics of architecture and test driven development",
-        "Implemented several development strategies to increase code quality",
         "Designed security strategy for integrating security into the development process",
         "Evaluate and recommend training opportunities for development staff on secure software design and architecture",
         "Implemented SonarQube for analysis of software quality and code standardization",
@@ -81,8 +81,7 @@
         "Installed and maintained Microsoft Exchange for corporate email",
         "Installed and maintained IIS web servers for both corporate website and intranet systems",
         "Helped create searchable corporate knowledge base application, written in ASP",
-        "Administered both Windows NT and Novell NetWare based servers for corporate file sharing",
-        "Provided various desktop support and business application support services for corporate end users"
+        "Administered both Windows NT and Novell NetWare based servers for corporate file sharing"
       ]
     },
     {
@@ -135,20 +134,12 @@
       "website": "http://legacy.python.org/about/success/ezro/"
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native Speaker"
-    }
-  ],
   "skills": [
     {
       "name": "Programming Languages",
       "keywords": [
         "Shell Scripting",
-        "Java",
         "Groovy",
-        "C#",
         "JavaScript",
         "Python",
         "PHP"
@@ -159,11 +150,8 @@
       "keywords": [
         "Zope",
         "Grails",
-        "Hibernate",
-        "Joomla",
         "Wordpress",
-        "node.js",
-        "krakenjs"
+        "node.js"
       ]
     },
     {
@@ -185,7 +173,6 @@
         "PHPUnit",
         "mocha",
         "karma",
-        "phantomjs",
         "geb"
       ]
     },
@@ -202,9 +189,8 @@
       "keywords": [
         "Postgres",
         "MySQL",
-        "SQL Server",
-        "Oracle",
-        "MongoDB"
+        "MongoDB",
+        "LevelUp"
       ]
     },
     {
@@ -229,7 +215,6 @@
       "name": "DevOps",
       "keywords": [
         "Jenkins",
-        "SonarQube",
         "Vagrant",
         "VirtualBox",
         "Puppet"
@@ -239,8 +224,7 @@
       "name": "Version Control",
       "keywords": [
         "Git",
-        "Subversion",
-        "CVS"
+        "Subversion"
       ]
     }
   ],
@@ -256,16 +240,15 @@
   ],
   "references": [
     {
+      "name": "Justin Stockton, CUA",
+      "reference": "Adam is a very capable leader and developer. I have worked alongside him for many years and have learned a lot not only about being a better developer but also about myself and what I can accomplish. He is someone that when times are tough, deadlines loom or the project is out of whack, I want on my team to help get us back on course and to completion."
+    },
+    {
       "name": "Scott Fallin",
       "reference": "I have worked with Adam at two different companies and have known him for over a decade. Adam is the finest programmer I have ever had the pleasure to work with. His depth of knowledge of several languages and methodologies, most specifically Python, is astounding. He is a true self-starter and I have never known him to shy away from learning something new, often becoming an expert on the subject in a very short time. It should also be noted that he is one of the finest network security minds in the industry. I will always attempt to hire him whenever I'm in the position to do so."
     },
-    { "name": "Justin Stockton, CUA",
-      "reference": "Adam is a very capable leader and developer. I have worked alongside him for many years and have learned a lot not only about being a better developer but also about myself and what I can accomplish. He is someone that when times are tough, deadlines loom or the project is out of whack, I want on my team to help get us back on course and to completion."
-    },
-    { "name": "Angela Carrayway, PMP, ITIL-F",
-      "reference": "Adam is very gifted in his understanding of technology. Whenever I wanted something fixed I called Adam. He gets the job done right the first time!"
-    },
-    { "name": "Samuel Schneider, CISSP",
+    {
+      "name": "Samuel Schneider, CISSP",
       "reference": "I had the privilege to work with Adam at a time when PC networking was beginning to take hold at Advance Auto Parts (AAP.) Adam was instrumental in advocating, architecting and implementing critical infrastructure services. As an IT professional Adam is diverse and a true technical wiz who loves solving problems and making disparate systems work uniformly. Problem solving, deep technical knowledge base, a strong foundation and Adam's personal commitment to his projects make him a bargain in consideration for employment. I would highly recommend him for just about any IT related activity as I have seen him rise to the occasion in many times of critical need. If you have the opportunity to leverage Adam as a resource consider yourself fortunate and have confidence that what you are attempting will be complete and functional on time and in budget."
     }
   ]
