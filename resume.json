@@ -4,7 +4,7 @@
     "name": "M. Adam Kendall",
     "email": "m.adam.kendall@gmail.com",
     "picture": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
-    "summary": "I've been a full-stack web software architect and system admin, or as they say, \"DevOps\", for over 18 years. I specialize in SOA applications using dynamic languages. I've been a remote worker for the past 15 years and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
+    "summary": "I've been a full-stack web software architect and system admin, or as they say, \"DevOps\", for over 20 years. I specialize in SOA applications using dynamic languages. I've been a remote worker for the past 17 years and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
     "location": {
       "address": "1640 Narcissus St",
       "city": "Salem",
@@ -22,16 +22,35 @@
         "network": "twitter",
         "username": "linuxbozo",
         "url": "http://www.twitter.com/linuxbozo"
+      },
+      {
+        "network": "keybase",
+        "username": "linuxbozo",
+        "url": "https://keybase.io/linuxbozo"
       }
     ]
   },
   "work": [
     {
+      "company": "18F/General Services Administration",
+      "position": "DevOps Lead/Site Reliability Engineer",
+      "website": "https://18f.gsa.gov",
+      "startDate": "2015-11-16",
+      "summary": "Provide general guidance on DevOps best practices for the organization, reporting to the Director of Engineering. Serve as one of the lead engineers for <a href=\"https://cloud.gov\">cloud.gov</a>, a platform as a service for government teams, much like Heroku.",
+      "highlights": [
+        "Hold bi-weekly 'office hours' for peer feedback on DevOps strategy and implementation",
+        "Provide project review for DevOps best practices and posture across the organization",
+        "Initiated and developed plan for full automation pipeline of the cloud.gov platform, including infrastructure as code, automated testing, and continous delivery",
+        "Regularly troubleshoot platform issues and provide customer engineering support"
+      ]
+    },
+    {
       "company": "Development Infostructure",
-      "position": "Software Engineer",
+      "position": "Enterprise Architect",
       "website": "http://www.devis.com",
       "startDate": "1999-10-25",
-      "summary": "Work directly with Director of Development Services setting policy for application development, component and service architecture, software quality, and security strategy. Regularly lead small teams of 2 to 5 developers within an agile environment to produce applications for federal government clients.",
+      "endDate": "2015-11-06",
+      "summary": "Worked directly with Director of Development Services setting policy for application development, component and service architecture, software quality, and security strategy. Regularly lead small teams of 2 to 5 developers within an agile environment to produce applications for federal government clients.",
       "highlights": [
         "Team lead and architect for the <a href=\"http://github.com/cfpb/hmda-pilot\">HMDA data validation pilot project</a> for the Consumer Financial Protection Bureau (CFPB). The HMDA Pilot provides a client side tool to perform validation, error checking and reporting of HMDA files, following the specifications found on the <a href=\"http://www.ffiec.gov/hmda\">FFIEC</a> website",
         "Developed a high-performance responsive training application for the Federal Acquisition Institute (FAI) utilizing node.js and AngularJS",
@@ -138,8 +157,9 @@
     {
       "name": "Programming Languages",
       "keywords": [
-        "Shell Scripting",
+        "shell",
         "Groovy",
+        "Golang",
         "JavaScript",
         "Python",
         "PHP"
@@ -148,10 +168,9 @@
     {
       "name": "Backend",
       "keywords": [
-        "Zope",
-        "Grails",
+        "Flask",
         "Wordpress",
-        "node.js"
+        "ExpressJS"
       ]
     },
     {
@@ -161,7 +180,6 @@
         "CSS",
         "Sass",
         "JQuery",
-        "AngularJS",
         "Bootstrap"
       ]
     },
@@ -172,15 +190,16 @@
         "PyUnit",
         "PHPUnit",
         "mocha",
-        "karma",
-        "geb"
+        "karma"
       ]
     },
     {
       "name": "Agile Project Management",
       "keywords": [
         "Scrum",
+        "Kanban",
         "Rally",
+        "Favro",
         "Jira"
       ]
     },
@@ -189,8 +208,7 @@
       "keywords": [
         "Postgres",
         "MySQL",
-        "MongoDB",
-        "LevelUp"
+        "MongoDB"
       ]
     },
     {
@@ -203,8 +221,9 @@
       ]
     },
     {
-      "name": "Servers",
+      "name": "Services",
       "keywords": [
+        "CloudFoundry",
         "Apache",
         "nginx",
         "Tomcat",
@@ -214,7 +233,12 @@
     {
       "name": "DevOps",
       "keywords": [
+        "AWS",
+        "BOSH",
+        "Docker",
         "Jenkins",
+        "Concourse",
+        "Terraform",
         "Vagrant",
         "VirtualBox",
         "Puppet"
