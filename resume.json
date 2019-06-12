@@ -4,7 +4,7 @@
     "name": "M. Adam Kendall",
     "email": "m.adam.kendall@gmail.com",
     "picture": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
-    "summary": "I've been a full-stack web software engineer and system architect focused on delivery, or as they say, \"DevOps\", for over 20 years. I specialize in SOA applications using dynamic languages. I've been a remote worker for the past 18 years and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
+    "summary": "I've been a full-stack web software engineer and system architect focused on delivery, or as they say, \"DevOps\", for over 20 years. I specialize in SOA applications using dynamic languages. I've been a remote worker for the past 20 years and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
     "location": {
       "address": "1640 Narcissus St",
       "city": "Salem",
@@ -32,19 +32,35 @@
   },
   "work": [
     {
+      "company": "Simple Finance",
+      "position": "Staff Infrastructure Engineer",
+      "website": "https://simple.com",
+      "startDate": "2018-10-29",
+      "summary": "Lead team of infrastructure and security engineers in providing secure, PCI-DSS compliant platform for regulated financial technology company",
+      "highlights": [
+        "Wrote strategy for migration from custom AWS EC2 delivery architecture to serverless platform to increase resiliency in operations",
+        "Lead effort to eliminate bespoke services for highly available third party services with larger community and/or company support",
+        "Lead effort to provide better monitoring of core services and forecast alerting so team could be more proactive",
+        "Started design of contingency plan and procedures in case of catastrophic failure or compromise of infrastructure components",
+        "Participate in on-call rotation to address immediate issues in infrastructure services"
+      ]
+    },
+    {
       "company": "18F/General Services Administration",
-      "position": "DevOps Lead/Platform Engineer",
+      "position": "DevOps Lead/Senior Platform Engineer",
       "website": "https://18f.gsa.gov",
       "startDate": "2015-11-16",
+      "endDate": "2018-10-19",
       "summary": "Provide general guidance on DevOps best practices for the organization, reporting to the Director of Engineering. Serve as one of the lead engineers for <a href=\"https://cloud.gov\">cloud.gov</a>, a platform as a service for government teams, much like Heroku.",
       "highlights": [
-        "Hold bi-weekly 'office hours' to provide other engineers peer feedback on their DevOps strategy and implementation",
-        "Lead profession development community of practice composed of DevOps experts within GSA",
-        "Provide project review for DevOps best practices and posture across the organization",
+        "Held bi-weekly 'office hours' to provide other engineers peer feedback on their DevOps strategy and implementation",
+        "Lead professional development community of practice composed of DevOps experts and those interested in increasing their DevOps skills within GSA",
+        "Provided project review for DevOps best practices and posture across the organization",
+        "Implemented organizational approach and automation for keeping sensitive data out of published source code",
         "Initiated and developed plan for full automation pipeline of the cloud.gov platform, including infrastructure as code, automated testing, and continuous delivery",
-        "Regularly troubleshoot cloud.gov platform issues and participate in on-call rotation",
-        "Perform compliance related functions to maintain FedRAMP JAB provisional ATO for cloud.gov",
-        "Provide both pre and post-sales engineering cloud transition consulting for cloud.gov customers"
+        "Regularly investigated and resolved cloud.gov platform issues and participated in on-call rotation",
+        "Perform compliance related functions, such as documentation and audit interviews, to maintain FedRAMP JAB provisional ATO for cloud.gov",
+        "Provide both pre and post-sales engineering and cloud transition consulting for cloud.gov customers"
       ]
     },
     {
@@ -115,7 +131,7 @@
       "highlights": [
         "Managed ethernet and token ring networks for Windows based desktops and servers",
         "Provided general administration on DEC Digital Unix and AT&T SysV Unix, file system maintenance and process improvement through the use of shell scripts",
-        "Installed and diagnosed both PC and AT&T micro-channel server hardware, like memory, modem and SCSI interfaces",
+        "Installed and diagnosed both PC and server hardware, like memory, modem and SCSI interfaces",
         "Managed and secured Internet connected systems for remote broker and client check clearing operations"
       ]
     }
@@ -232,7 +248,7 @@
         "Kubernetes",
         "CloudFoundry",
         "BOSH",
-        "VirtualBox",        
+        "VirtualBox",
         "Apache",
         "nginx",
         "Tomcat",
