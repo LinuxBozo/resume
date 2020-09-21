@@ -1,10 +1,11 @@
 {
   "basics": {
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
     "label": "Software Engineer",
     "name": "M. Adam Kendall",
     "email": "m.adam.kendall@gmail.com",
-    "picture": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
-    "summary": "I've been a full-stack web software engineer and system architect focused on delivery, or as they say, \"DevOps\", for over 20 years. I specialize in SOA applications using dynamic languages. I've been a remote worker for the past 20 years and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
+    "image": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
+    "summary": "I've been a full-stack web software engineer and system architect focused on delivery, or as they say, \"DevOps\", for over 25 years. I specialize in SOA applications using dynamic languages. I've been a remote worker for the past 20 years and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
     "location": {
       "address": "1640 Narcissus St",
       "city": "Salem",
@@ -21,7 +22,7 @@
       {
         "network": "twitter",
         "username": "linuxbozo",
-        "url": "http://www.twitter.com/linuxbozo"
+        "url": "https://www.twitter.com/linuxbozo"
       },
       {
         "network": "keybase",
@@ -32,23 +33,27 @@
   },
   "work": [
     {
-      "company": "Simple Finance",
+      "name": "Simple Finance",
+      "description": "Regulated financial technology company",
+      "location": "Portland, OR",
       "position": "Staff Infrastructure Engineer",
-      "website": "https://simple.com",
+      "url": "https://simple.com",
       "startDate": "2018-10-29",
       "summary": "Lead team of infrastructure and security engineers in providing secure, PCI-DSS compliant platform for regulated financial technology company",
       "highlights": [
         "Wrote strategy for migration from custom AWS EC2 delivery architecture to serverless platform to increase resiliency in operations",
+        "Mentor team of both infrastructure and security engineers",
+        "Designed architecture and strategy to provide more opinionated self-service components, like databases, for the rest of engineering org",
         "Lead effort to eliminate bespoke services for highly available third party services with larger community and/or company support",
         "Lead effort to provide better monitoring of core services and forecast alerting so team could be more proactive",
-        "Started design of contingency plan and procedures in case of catastrophic failure or compromise of infrastructure components",
+        "Wrote and designed contingency plan and procedures in case of catastrophic failure or compromise of infrastructure components",
         "Participate in on-call rotation to address immediate issues in infrastructure services"
       ]
     },
     {
-      "company": "18F/General Services Administration",
+      "name": "18F/General Services Administration",
       "position": "DevOps Lead/Senior Platform Engineer",
-      "website": "https://18f.gsa.gov",
+      "url": "https://18f.gsa.gov",
       "startDate": "2015-11-16",
       "endDate": "2018-10-19",
       "summary": "Provide general guidance on DevOps best practices for the organization, reporting to the Director of Engineering. Serve as one of the lead engineers for <a href=\"https://cloud.gov\">cloud.gov</a>, a platform as a service for government teams, much like Heroku.",
@@ -64,14 +69,14 @@
       ]
     },
     {
-      "company": "Development Infostructure",
+      "name": "Development Infostructure",
       "position": "Enterprise Architect",
-      "website": "http://www.devis.com",
+      "url": "http://www.devis.com",
       "startDate": "1999-10-25",
       "endDate": "2015-11-06",
       "summary": "Worked directly with Director of Development Services setting policy for application development, component and service architecture, software quality, and security strategy. Regularly lead small teams of 2 to 5 developers within an agile environment to produce applications for federal government clients.",
       "highlights": [
-        "Team lead and architect for the <a href=\"http://github.com/cfpb/hmda-pilot\">HMDA data validation pilot project</a> for the Consumer Financial Protection Bureau (CFPB). The HMDA Pilot provides a client side tool to perform validation, error checking and reporting of HMDA files, following the specifications found on the <a href=\"http://www.ffiec.gov/hmda\">FFIEC</a> website",
+        "Team lead and architect for the <a href=\"http://github.com/cfpb/hmda-pilot\">HMDA data validation pilot project</a> for the Consumer Financial Protection Bureau (CFPB). The HMDA Pilot provides a client side tool to perform validation, error checking and reporting of HMDA files, following the specifications found on the <a href=\"http://www.ffiec.gov/hmda\">FFIEC</a> url",
         "Developed a high-performance responsive training application for the Federal Acquisition Institute (FAI) utilizing node.js and AngularJS",
         "Lead effort for design and development of a document repository and web portal for Nathan Associates to collaborate and share documents and events with their teams distributed around the world",
         "Team lead and developer for <a href=\"http://ezro.devis.com\">EZRO</a> content management and e-learning system used by several government agencies, including the Department of Labor, Department of Justice, and Department of State",
@@ -92,9 +97,9 @@
       ]
     },
     {
-      "company": "Norfolk Southern Railroad",
+      "name": "Norfolk Southern Railroad",
       "position": "Senior Developer",
-      "website": "http://www.nscorp.com",
+      "url": "http://www.nscorp.com",
       "startDate": "1998-07-06",
       "endDate": "1999-10-22",
       "summary": "Worked within the Intranet/Internet Systems Group specializing in security and system administration on Sun Solaris and Windows NT servers.",
@@ -107,9 +112,9 @@
       ]
     },
     {
-      "company": "Advance Auto Parts",
+      "name": "Advance Auto Parts",
       "position": "LAN Analyst",
-      "website": "http://corp.advanceautoparts.com",
+      "url": "http://corp.advanceautoparts.com",
       "startDate": "1996-10-06",
       "endDate": "1998-06-26",
       "summary": "Responsible for building Internet presence from ground up. Included evaluation and determination of needs, selection of appropriate server hardware and software, and training end users and support personnel. Expanded existing Intranet services beyond filesharing and backup systems.",
@@ -117,13 +122,13 @@
         "Worked with Wide Area Network (WAN) group in selection process of ISP",
         "Installed and certified on Checkpoint Firewall-1 for securing Internet routes",
         "Installed and maintained Microsoft Exchange for corporate email",
-        "Installed and maintained IIS web servers for both corporate website and intranet systems",
+        "Installed and maintained IIS web servers for both corporate url and intranet systems",
         "Helped create searchable corporate knowledge base application, written in ASP",
         "Administered both Windows NT and Novell NetWare based servers for corporate file sharing"
       ]
     },
     {
-      "company": "Bank One Financial Card Services",
+      "name": "Bank One Financial Card Services",
       "position": "System and Network Administrator",
       "startDate": "1995-08-08",
       "endDate": "1996-09-22",
@@ -169,7 +174,7 @@
       "name": "Python and Zope in the EZRO CMS",
       "publisher": "python.org",
       "releaseDate": "2004-06-02",
-      "website": "http://legacy.python.org/about/success/ezro/"
+      "url": "http://legacy.python.org/about/success/ezro/"
     }
   ],
   "skills": [
