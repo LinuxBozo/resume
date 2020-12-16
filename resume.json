@@ -5,7 +5,7 @@
     "name": "M. Adam Kendall",
     "email": "m.adam.kendall@gmail.com",
     "image": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
-    "summary": "I've been a full-stack web software engineer and system architect focused on delivery, or as they say, \"DevOps\", for over 25 years. I specialize in SOA applications using dynamic languages. I've been a remote worker for the past 20 years and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
+    "summary": "I've been a full-stack web software engineer and system architect focused on delivery, or as they say, \"DevOps\", for over 25 years. I specialize in SOA applications using dynamic languages. I've been a remote worker for over two decades and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
     "location": {
       "address": "1640 Narcissus St",
       "city": "Salem",
@@ -33,12 +33,20 @@
   },
   "work": [
     {
+      "name": "Truss",
+      "location": "San Francisco, CA/Remote",
+      "position": "Senior Infrastructure Engineer",
+      "url": "https://truss.works",
+      "startDate": "2020-12-14",
+      "summary": "Provide cloud infrastructure and security engineering services to both government and commercial clients"
+    },
+    {
       "name": "Simple Finance",
-      "description": "Regulated financial technology company",
-      "location": "Portland, OR",
+      "location": "Portland, OR/Remote",
       "position": "Staff Infrastructure Engineer",
       "url": "https://simple.com",
       "startDate": "2018-10-29",
+      "endDate": "2020-12-11",
       "summary": "Lead team of infrastructure and security engineers in providing secure, PCI-DSS compliant platform for regulated financial technology company",
       "highlights": [
         "Wrote strategy for migration from custom AWS EC2 delivery architecture to serverless platform to increase resiliency in operations",
@@ -52,6 +60,7 @@
     },
     {
       "name": "18F/General Services Administration",
+      "location": "Washington, DC/Remote",
       "position": "DevOps Lead/Senior Platform Engineer",
       "url": "https://18f.gsa.gov",
       "startDate": "2015-11-16",
@@ -70,6 +79,7 @@
     },
     {
       "name": "Development Infostructure",
+      "location": "Arlington, VA/Remote",
       "position": "Enterprise Architect",
       "url": "http://www.devis.com",
       "startDate": "1999-10-25",
@@ -98,6 +108,7 @@
     },
     {
       "name": "Norfolk Southern Railroad",
+      "location": "Roanoke, VA",
       "position": "Senior Developer",
       "url": "http://www.nscorp.com",
       "startDate": "1998-07-06",
@@ -113,6 +124,7 @@
     },
     {
       "name": "Advance Auto Parts",
+      "location": "Roanoke, VA",
       "position": "LAN Analyst",
       "url": "http://corp.advanceautoparts.com",
       "startDate": "1996-10-06",
@@ -129,6 +141,7 @@
     },
     {
       "name": "Bank One Financial Card Services",
+      "location": "Columbus, OH",
       "position": "System and Network Administrator",
       "startDate": "1995-08-08",
       "endDate": "1996-09-22",
