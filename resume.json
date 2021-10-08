@@ -38,7 +38,12 @@
       "position": "Senior Infrastructure Engineer",
       "url": "https://truss.works",
       "startDate": "2020-12-14",
-      "summary": "Provide cloud infrastructure and security engineering services to both government and commercial clients"
+      "summary": "Provide cloud infrastructure and security engineering consulting services to both government and commercial clients",
+      "highlights": [
+        "Managed team of engineers providing security scanning and build automation tooling for CHIP and Medicaid Services (CMS) inside HHS",
+        "Provided cohesive DevOps strategy for CMS Medicaid and CHIP Business Information Systems (MACBIS) application teams",
+        "Developed DevOps community of practice so that application teams could share experiences and learn from each other"
+      ]
     },
     {
       "name": "Simple Finance",
@@ -47,10 +52,10 @@
       "url": "https://simple.com",
       "startDate": "2018-10-29",
       "endDate": "2020-12-11",
-      "summary": "Lead team of infrastructure and security engineers in providing secure, PCI-DSS compliant platform for regulated financial technology company",
+      "summary": "Managed team of infrastructure and security engineers in providing secure, PCI-DSS compliant platform for regulated financial technology company",
       "highlights": [
-        "Wrote strategy for migration from custom AWS EC2 delivery architecture to serverless platform to increase resiliency in operations",
-        "Mentor team of both infrastructure and security engineers",
+        "Wrote strategy for migration from custom AWS EC2 delivery architecture to serverless platform as a service to increase resiliency in operations",
+        "Managed and mentored platform services team consisting of both infrastructure and security engineers",
         "Designed architecture and strategy to provide more opinionated self-service components, like databases, for the rest of engineering org",
         "Lead effort to eliminate bespoke services for highly available third party services with larger community and/or company support",
         "Lead effort to provide better monitoring of core services and forecast alerting so team could be more proactive",
