@@ -1,11 +1,11 @@
 {
   "basics": {
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-    "label": "Software Engineer",
+    "label": "Engineering Manager",
     "name": "M. Adam Kendall",
     "email": "m.adam.kendall@gmail.com",
     "image": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
-    "summary": "I've been a full-stack web software engineer and system architect focused on delivery, or as they say, \"DevOps\", for over 25 years. I specialize in SOA applications using dynamic languages. I've been a remote worker for over two decades and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
+    "summary": "I've been an engineer and manager focusing on continuous delivery, or as they say, \"DevOps\", for over 20 years. I specialize in SOA applications using dynamic languages and highly available infrastructure. I've been a remote worker for just as long and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
     "location": {
       "address": "1640 Narcissus St",
       "city": "Salem",
@@ -33,11 +33,26 @@
   },
   "work": [
     {
+      "name": "Puppet",
+      "location": "Portland, OR/Remote",
+      "position": "Senior Manager of Engineering",
+      "url": "https://puppet.com",
+      "startDate": "2021-11-08",
+      "summary": "Leader of multiple teams within the Developer Services division providing a secure infrastructure platform for our SaaS applications, and highly scaled CI/CD services",
+      "highlights": [
+        "Provide career mentorship to 12 engineers at multiple levels, from junior to principal, spread across two teams",
+        "Successfully guided the elimination of a data center, migrating workloads to the cloud",
+        "Built the platform services team from the ground up, hiring key personnel, developing the roadmap, leading user research, and training developer teams on highly available application best practices",
+        "Able to coach the CI services team toward increased velocity and more prioritized backlog, which lead to more stable environment"
+      ]
+    },
+    {
       "name": "Truss",
       "location": "San Francisco, CA/Remote",
-      "position": "Senior Infrastructure Engineer",
+      "position": "Managing Engineer",
       "url": "https://truss.works",
       "startDate": "2020-12-14",
+      "endDate": "2021-10-29",
       "summary": "Provide cloud infrastructure and security engineering consulting services to both government and commercial clients",
       "highlights": [
         "Managed team of engineers providing security scanning and build automation tooling for CHIP and Medicaid Services (CMS) inside HHS",
@@ -85,7 +100,7 @@
     {
       "name": "Development Infostructure",
       "location": "Arlington, VA/Remote",
-      "position": "Enterprise Architect",
+      "position": "Principal Software Architect",
       "url": "http://www.devis.com",
       "startDate": "1999-10-25",
       "endDate": "2015-11-06",
