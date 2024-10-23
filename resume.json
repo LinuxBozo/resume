@@ -8,37 +8,33 @@
     "name": "M. Adam Kendall",
     "email": "linuxbozo@gmail.com",
     "image": "https://avatars2.githubusercontent.com/u/723420?v=2&s=460",
-    "summary": "I've been an engineering leader and manager focusing on software development, infrastructure, and continuous delivery, or as they say, \"DevOps\", for over 20 years. I've been a remote worker for just as long and understand the high levels of communication and self discipline required. I'm a huge supporter of open source software and have contributed to many projects over the years on both github and SourceForge.",
+    "summary": "Results-driven engineering leader with 25+ years of experience delivering compliant, innovative solutions in government and financial technology sectors. Expert at developing high-performing teams through effective coaching and performance metrics, and fostering an open, transparent work culture. A staunch advocate for cost efficiency and open-source solutions, with a long history of personally contributing to projects on GitHub and SourceForge.",
     "profiles": [
       {
         "network": "github",
         "username": "linuxbozo",
         "url": "https://github.com/linuxbozo"
-      },
-      {
-        "network": "twitter",
-        "username": "linuxbozo",
-        "url": "https://www.twitter.com/linuxbozo"
       }
     ]
   },
   "work": [
     {
       "name": "Truss",
-      "location": "San Francisco, CA/Remote",
-      "position": "Technical Manager of InfraSec",
+      "location": "San Francisco, CA (Remote)",
+      "position": "Technical Manager",
       "url": "https://truss.works",
       "startDate": "2023-01-09",
-      "summary": "Senior engineering leader of both cloud infrastructure and security concerns",
+      "summary": "Cross practice leader for government project delivery teams",
       "highlights": [
-        "Provide career mentorship and career development to our most senior engineers specializing in infrastructure and security",
+        "Provide career mentorship and development to a mix of cross-practice disciplines, including product, software and cloud engineering, and user research professionals, including both individual contributors and other managers",
         "Wrote several articles for the company blog around engineering career development",
-        "Involved in cross-functional team working on SITH, the insider threat case management system used by DCSA, coordinating and tracking issues of both obtaining an ATO within an DoD IL5 environment and working with outside parties for security bug bounty research"
+        "Managed engineering, security and QA members of a cross-functional team working on SITH, the insider threat case management system used by DCSA, coordinating and tracking issues of both obtaining an ATO within an DoD IL5 environment and working with outside parties for security bug bounty research",
+        "Managed a underperforming cross-functional team providing services to the SEC, coming in mid-project where I was able to successfully improve team and client communication on capacity, schedules, and roadmaps, restoring trust and transparency, allowing the team to hit key critical dates for security assessment and on time feature delivery"
       ]
     },
     {
       "name": "Puppet",
-      "location": "Portland, OR/Remote",
+      "location": "Portland, OR (Remote)",
       "position": "Senior Manager of Engineering",
       "url": "https://puppet.com",
       "startDate": "2021-11-08",
@@ -46,14 +42,14 @@
       "summary": "Leader of multiple teams within the Developer Services division providing a secure infrastructure platform for our SaaS applications, and highly scaled CI/CD services",
       "highlights": [
         "Provide career mentorship to 12 engineers at multiple levels, from junior to principal, spread across two teams",
-        "Successfully guided the elimination of a data center, migrating workloads to the cloud",
-        "Built the platform services team from the ground up, hiring key personnel, developing the roadmap, leading user research, and training developer teams on highly available application best practices",
-        "Able to coach the CI services team toward increased velocity and more prioritized backlog, which lead to more stable environment for the rest of our R&D engineering organization"
+        "Successfully guided the elimination of a data center, migrating workloads to the cloud saving the company approximate a quarter million dollars per year",
+        "Built the platform services team from the ground up, hiring key personnel, developing the product roadmap, leading user research, and training developer teams on highly available application best practices",
+        "Able to coach the CI/CD services team toward increased velocity and more prioritized backlog, which lead to more stable environment for the rest of our R&D engineering organization allowing for a 10% reduction in release schedule"
       ]
     },
     {
       "name": "Truss",
-      "location": "San Francisco, CA/Remote",
+      "location": "San Francisco, CA (Remote)",
       "position": "Managing Consulting Engineer",
       "url": "https://truss.works",
       "startDate": "2020-12-14",
@@ -62,12 +58,12 @@
       "highlights": [
         "Managed team of engineers providing security scanning and build automation tooling for CHIP and Medicaid Services (CMS) inside HHS",
         "Provided cohesive DevOps strategy for CMS Medicaid and CHIP Business Information Systems (MACBIS) application teams",
-        "Developed DevOps community of practice so that application teams could share experiences and learn from each other"
+        "Developed DevOps community of practice so that application teams could share experiences and learn from each other leading to reduced tool proliferation and common patterns for AWS cost reduction"
       ]
     },
     {
       "name": "Simple Finance",
-      "location": "Portland, OR/Remote",
+      "location": "Portland, OR (Remote)",
       "position": "Staff Infrastructure Engineer",
       "url": "https://simple.com",
       "startDate": "2018-10-29",
@@ -85,7 +81,7 @@
     },
     {
       "name": "18F/General Services Administration",
-      "location": "Washington, DC/Remote",
+      "location": "Washington, DC (Remote)",
       "position": "DevOps Lead/Senior Platform Engineer",
       "url": "https://18f.gsa.gov",
       "startDate": "2015-11-16",
@@ -104,7 +100,7 @@
     },
     {
       "name": "Development Infostructure",
-      "location": "Arlington, VA/Remote",
+      "location": "Arlington, VA (Remote)",
       "position": "Principal Software Architect",
       "url": "http://www.devis.com",
       "startDate": "2010-09-20",
@@ -114,7 +110,7 @@
     },
     {
       "name": "Development Infostructure",
-      "location": "Arlington, VA/Remote",
+      "location": "Arlington, VA (Remote)",
       "position": "Software Engineer",
       "url": "http://www.devis.com",
       "startDate": "2001-06-26",
@@ -123,7 +119,7 @@
     },
     {
       "name": "Development Infostructure",
-      "location": "Arlington, VA/Remote",
+      "location": "Arlington, VA (Remote)",
       "position": "Network Operations Manager",
       "url": "http://www.devis.com",
       "startDate": "2000-11-10",
@@ -132,7 +128,7 @@
     },
     {
       "name": "Development Infostructure",
-      "location": "Arlington, VA/Remote",
+      "location": "Arlington, VA (Remote)",
       "position": "Network and Security Engineer",
       "url": "http://www.devis.com",
       "startDate": "1999-10-25",
@@ -174,24 +170,6 @@
       "area": "Major: Visual Communication, Digital Design",
       "studyType": "Bachelor of Fine Arts, Magna Cum Laude",
       "courses": []
-    },
-    {
-      "institution": "Ohio University",
-      "startDate": "1993-09-09",
-      "endDate": "1995-06-10",
-      "area": "Major: Computer Science, Major: Electrical Engineering, Minor: History",
-      "summary": "Activities and Societies: Alpha Phi Omega, ACM",
-      "studyType": "Did not complete degree",
-      "courses": []
-    },
-    {
-      "institution": "University of Toledo",
-      "startDate": "1992-08-24",
-      "endDate": "1993-05-08",
-      "area": "Major: Electrical and Computer Engineering",
-      "summary": "",
-      "studyType": "Did not complete degree",
-      "courses": []
     }
   ],
   "publications": [
@@ -204,42 +182,12 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Soft skills",
       "keywords": [
-        "shell",
-        "Groovy",
-        "Golang",
-        "JavaScript",
-        "Python",
-        "PHP"
-      ]
-    },
-    {
-      "name": "Backend",
-      "keywords": [
-        "Flask",
-        "Wordpress",
-        "ExpressJS"
-      ]
-    },
-    {
-      "name": "Frontend",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Sass",
-        "JQuery",
-        "Bootstrap"
-      ]
-    },
-    {
-      "name": "Testing",
-      "keywords": [
-        "JUnit",
-        "PyUnit",
-        "PHPUnit",
-        "mocha",
-        "karma"
+        "Leadership and team mentorship",
+        "Career development",
+        "Communication and collaboration in cross-functional teams",
+        "Strategic planning and execution"
       ]
     },
     {
@@ -251,12 +199,22 @@
       ]
     },
     {
-      "name": "Storage",
+      "name": "Programming Languages",
       "keywords": [
-        "Postgres",
-        "MySQL",
-        "MongoDB",
-        "ElasticSearch"
+        "shell",
+        "Groovy",
+        "Golang",
+        "JavaScript",
+        "Python",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Backends",
+      "keywords": [
+        "Flask",
+        "nodejs",
+        "Wordpress"
       ]
     },
     {
@@ -269,23 +227,20 @@
       ]
     },
     {
-      "name": "DevOps and Cloud",
+      "name": "Cloud",
       "keywords": [
         "AWS",
-        "GCP",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "keywords": [          
         "Docker",
         "Kubernetes",
         "terraform",
         "Ansible",
-        "CloudFoundry",
-        "CI/CD"
-      ]
-    },
-    {
-      "name": "Version Control",
-      "keywords": [
-        "Git",
-        "Subversion"
+        "CloudFoundry"
       ]
     }
   ],
